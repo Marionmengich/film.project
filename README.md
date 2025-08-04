@@ -1,12 +1,12 @@
-# 🎬 Movie Performance Analysis
+#  Movie Performance Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 As the company enters the competitive world of movie production, this project analyzes historical box office data to uncover what types of films perform best. The goal is to translate these insights into clear, data-informed recommendations to help our new studio make smart, profitable content decisions.
 
 ---
 
-## 🧠 Business Understanding
+##  Business Understanding
 
 Big-name companies are creating original video content and gaining huge market traction. Our company wants to do the same, but wisely.  
 We asked: **What kind of movies make the most money?**  
@@ -14,7 +14,7 @@ By studying trends in budgets, profits, genres, and release years, we aim to mak
 
 ---
 
-## 📊 Datasets Used
+##  Datasets Used
 
 - **Box Office Mojo**: Provided domestic and international revenue details.  
 - **The Numbers**: Gave access to production budgets and overall profitability.
@@ -23,7 +23,7 @@ I focused on these two datasets as they offer the most relevant financial insigh
 
 ---
 
-## 🔍 Key Questions Explored
+##  Key Questions Explored
 
 - What genres or studios produce the highest ROI?
 - Has production spending increased over time?
@@ -32,7 +32,7 @@ I focused on these two datasets as they offer the most relevant financial insigh
 
 ---
 
-## 📈 Visualizations & Insights
+##  Visualizations & Insights
 
 Using Python (Pandas, Matplotlib, Seaborn) and Tableau, I created the following visualizations:
 
@@ -53,7 +53,7 @@ Using Python (Pandas, Matplotlib, Seaborn) and Tableau, I created the following 
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 - **Focus on Mid-Budget, High-ROI Films**  
   _Example: Mad Max
@@ -72,20 +72,22 @@ Using Python (Pandas, Matplotlib, Seaborn) and Tableau, I created the following 
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 This analysis helps our studio understand what has worked historically. With these insights, we can confidently create profitable and impactful films that appeal to wide audiences, both locally and globally.
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Tableau for data dashboards
 - Jupyter Notebook
 
 ---
+## Tableau link
+https://public.tableau.com/app/profile/marion.mengich/viz/phase2ed/Dashboard1?publish=yes
 
-## 🙌 Author
+##  Author
 
 **Marion Mengich Cherotich**  
